@@ -13,7 +13,7 @@ class Aula08{
         querer = Convert.ToString (Console.ReadLine());
         if (querer == "não")
         {
-            Console.WriteLine("Que pena! A gente brinca da próxima vez");
+            Console.WriteLine("Que pena! A gente brinca da próxima vez!");
         }
             else if (querer == "sim")
             {
