@@ -9,3 +9,6 @@
 * Aula09 - Operadores Bitwise dentro de variáveis inteiras e suas variações
 * Aula10 - Enum ou Enumeradores
 * Aula11 - Type cast conversão de um tipo em outro
+* Aula12 - Instrução if
+* Aula13 - Instrução if - else
+* Aula14 - if aninhado - if dentro de if

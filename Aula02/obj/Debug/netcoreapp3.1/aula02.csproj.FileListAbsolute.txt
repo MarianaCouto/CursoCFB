@@ -1,0 +1,13 @@
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.exe
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.deps.json
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.json
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.dev.json
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.dll
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\bin\Debug\netcoreapp3.1\aula02.pdb
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.csprojAssemblyReference.cache
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfoInputs.cache
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfo.cs
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.dll
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.pdb
+D:\C#\Aulas\CursoCFB_CSharp\Aula02\obj\Debug\netcoreapp3.1\aula02.genruntimeconfig.cache

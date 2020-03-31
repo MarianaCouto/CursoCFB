@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos CFB\\C#\\aulas\\aula02\\aula02.csproj": {}
+    "D:\\C#\\Aulas\\CursoCFB_CSharp\\Aula02\\aula02.csproj": {}
   },
   "projects": {
-    "D:\\Cursos CFB\\C#\\aulas\\aula02\\aula02.csproj": {
+    "D:\\C#\\Aulas\\CursoCFB_CSharp\\Aula02\\aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos CFB\\C#\\aulas\\aula02\\aula02.csproj",
+        "projectUniqueName": "D:\\C#\\Aulas\\CursoCFB_CSharp\\Aula02\\aula02.csproj",
         "projectName": "aula02",
-        "projectPath": "D:\\Cursos CFB\\C#\\aulas\\aula02\\aula02.csproj",
-        "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos CFB\\C#\\aulas\\aula02\\obj\\",
+        "projectPath": "D:\\C#\\Aulas\\CursoCFB_CSharp\\Aula02\\aula02.csproj",
+        "packagesPath": "C:\\Users\\Mariana Couto\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Aulas\\CursoCFB_CSharp\\Aula02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mariana Couto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
