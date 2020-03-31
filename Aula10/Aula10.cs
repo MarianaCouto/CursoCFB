@@ -6,7 +6,7 @@ class Aula10{  // Enum ou Enumeradores
 
         static void Main(){
             
-            DiasSemana ds = (DiasSemana)3;    // ou assim DiasSemana ds = DiasSemana.Domingo;
+            DiasSemana ds = (DiasSemana)3;    // ou assim DiasSemana ds = DiasSemana.Domingo, começa em zero;
             int ds1 = (int) DiasSemana.Sexta;  // ou descobrir o indice de um valor
             Console.WriteLine(ds);
             Console.WriteLine(ds1);

@@ -1,6 +1,6 @@
 using System;
 
-class Aula09{  //Operadores bitWise
+class Aula09{  //Operadores Bitwise dentro de variáveis inteiras e suas variações
      static void Main(){
 
          int num = 10;

@@ -1,6 +1,6 @@
 using System;
 
-class Aula11{  // type cast conversão de um tipo em outro
+class Aula11{  // type cast conversão de um tipo em outro -- ler teipecast implícito não precisa converter float recebe int
     static void Main(){
 
         int n1=10;

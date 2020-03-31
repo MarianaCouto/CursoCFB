@@ -1,0 +1,11 @@
+* Aula01 - Instalação
+* Aula02 - Estrutura 
+* Aula03 - Declaração de variáveis c# é uma linguagem fortemente tipada
+* Aula04 - Escopo de variáveis Global e Local
+* Aula05 - Operadores
+* Aula06 - Formatação do Console
+* Aula07 - Constantes não pode alterar o valor / variável muda ao longo do programa
+* Aula08 - Ler o valor do teclado e converter os valores
+* Aula09 - Operadores Bitwise dentro de variáveis inteiras e suas variações
+* Aula10 - Enum ou Enumeradores
+* Aula11 - Type cast conversão de um tipo em outro

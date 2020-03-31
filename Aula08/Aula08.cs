@@ -1,7 +1,7 @@
 using System;
 
 class Aula08{
-    static void Main(){ //ler o valor do teclado
+    static void Main(){ //ler o valor do teclado e converter os valores
         int v1,v2,soma;
         string nome;
         string querer = "";
@@ -10,7 +10,7 @@ class Aula08{
         Console.Write("Digite seu nome: ");
         nome = Console.ReadLine();
         Console.Write("Olá {0}", nome + "! Vamos brincar de adição? Digite sim ou não: ");
-        querer = Convert.ToString (Console.ReadLine());
+        querer = Convert.ToString(Console.ReadLine()).ToLower();//ToLower passa para minúsculo procurei na net
         if (querer == "não")
         {
             Console.WriteLine("Que pena! A gente brinca da próxima vez!");
