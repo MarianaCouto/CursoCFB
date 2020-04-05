@@ -12,4 +12,6 @@
 * Aula12 - Instrução if
 * Aula13 - Instrução if - else
 * Aula14 - if aninhado - if dentro de if
-* Aula15 - SWITCH case 
+* Aula15 - SWITCH case ,
+* Aula16 - GO TO
+* Aula17 - Array / Vetor
