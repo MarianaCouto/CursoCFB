@@ -14,4 +14,11 @@
 * Aula14 - if aninhado - if dentro de if
 * Aula15 - SWITCH case ,
 * Aula16 - GO TO
-* Aula17 - Array / Vetor
+* Aula17 - Array / Vetor Unidimensionais
+* Aula18 - Array / Matriz / Vetores Bidimensionais
+* Aula19 - Loop FOR / Estruturas de iteração
+* Aula20 - While / Estruturas de iteração
+* Aula21 - DO WHILE / Estruturas de iteração
+* Aula22 - FOREACH / Estruturas de iteração
+* Aula23 - Métodos para arrays #P1
+* Aula24 - Métodos
