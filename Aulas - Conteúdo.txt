@@ -22,3 +22,7 @@
 * Aula22 - FOREACH / Estruturas de iteração
 * Aula23 - Métodos para arrays #P1
 * Aula24 - Métodos
+* Aula25 - Passagem por valor e por referência
+* Aula26 - Argumento out
+* Aula27 - Argumento params
+* Aula28 - Classes e Objetos
