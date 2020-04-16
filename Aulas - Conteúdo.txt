@@ -30,3 +30,6 @@
 * Aula30 - Sobrecarga de Construtores
 * Aula31 - Classes Static
 * Aula32 - This
+* Aula33 - Public vs Private
+* Aula34 - Herança
+* Aula35 - Cadeia de herança e Construtor da classe base / Operador Ternário
