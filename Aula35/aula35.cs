@@ -8,7 +8,8 @@ class Veiculo{  //classe base
     public Veiculo(int rodas){ //construtor com 1 argumento
         this.rodas=rodas;
     }
-        public void ligar(){
+    
+    public void ligar(){
         ligado=true;
     }
 

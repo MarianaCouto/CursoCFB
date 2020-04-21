@@ -33,3 +33,11 @@
 * Aula33 - Public vs Private
 * Aula34 - Herança
 * Aula35 - Cadeia de herança e Construtor da classe base / Operador Ternário
+* Aula36 - Membros Protected
+* Aula37 - Herança/Ordem de execução dos construtores 
+* Aula38 - Métodos virtuais
+* Aula39 - Classes abstratas e métodos abstratos
+* Aula40 - Classe Sealed
+* Aula41 - Acessors GET e SET
+* Aula42 - Indexadores de Classes
+* Aula43 - Interfaces
