@@ -41,3 +41,6 @@
 * Aula41 - Acessors GET e SET
 * Aula42 - Indexadores de Classes
 * Aula43 - Interfaces
+* Aula44 - Struct ou Estrutura
+* Aula45 - Array de estruturas
+* Aula46 - Métodos que retornam objetos
