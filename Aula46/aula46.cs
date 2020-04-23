@@ -10,6 +10,7 @@ class Galinha{
     public Ovo botar(){//metodo-> acesso, tipo retorno, nome metodo (método que retorna o tipo de objeto ovo)
         numOvo++;
         return new Ovo(numOvo, nomeGalinha);
+        
     }
 }
 
