@@ -47,3 +47,15 @@
 * Aula47 - Sobrecarga de métodos
 * Aula48 - Recursividade 
 * Aula49 - Métodos e Variáveis estáticos (static) 
+* Aula50 - Delegates
+* Aula51 - Argumentos de entrada do programa
+* Aula52 - Exceções - Try Catch Finally 
+* Aula53 - Exceções - Try Catch Finally - P2 
+* Aula54 - Namespaces
+* Aula55 - Coleção Dictionary
+* Aula56 - Coleção LinkedList / Lista duplamente encadeada
+* Aula57 - Coleção List P1
+* Aula58 - Coleção List P2
+* Aula59 - Coleção Queue (Fila)
+* Aula60 - Visual Studio 2019 - Aula 1
+
