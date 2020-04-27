@@ -1,6 +1,6 @@
 using System;
 
-class Aula24{  //Métodos 
+class Aula24{  //Métodos -> são conjuntos de instruções que podem ser chamados a qualquer momento dentro do programa
     static void Main(){
         int v1, v2, r;
         Console.WriteLine("Digite o primeiro valor: ");

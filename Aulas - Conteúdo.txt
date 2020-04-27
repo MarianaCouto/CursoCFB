@@ -57,5 +57,10 @@
 * Aula57 - Coleção List P1
 * Aula58 - Coleção List P2
 * Aula59 - Coleção Queue (Fila)
+-----------------PARTE 2----------------
 * Aula60 - Visual Studio 2019 - Aula 1
-
+* Aula61 - Formulário, Manipulação de componentes, Evento de clique
+* Aula62 - Componente Textbox
+* Aula63 - Criando e abrindo um novo form
+* Aula64 - Enviar dados de um formulário para outro
+* Aula65 - Como criar um menu
