@@ -58,11 +58,17 @@
     <Compile Include="F_CheckBox.Designer.cs">
       <DependentUpon>F_CheckBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="F_CheckListBox.cs">
+    <Compile Include="F_CheckedListBox.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="F_CheckListBox.Designer.cs">
-      <DependentUpon>F_CheckListBox.cs</DependentUpon>
+    <Compile Include="F_CheckedListBox.Designer.cs">
+      <DependentUpon>F_CheckedListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_filhoCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_filhoCheckBox.Designer.cs">
+      <DependentUpon>F_filhoCheckBox.cs</DependentUpon>
     </Compile>
     <Compile Include="F_Veiculos.cs">
       <SubType>Form</SubType>
@@ -78,8 +84,11 @@
     <EmbeddedResource Include="F_CheckBox.resx">
       <DependentUpon>F_CheckBox.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="F_CheckListBox.resx">
-      <DependentUpon>F_CheckListBox.cs</DependentUpon>
+    <EmbeddedResource Include="F_CheckedListBox.resx">
+      <DependentUpon>F_CheckedListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_filhoCheckBox.resx">
+      <DependentUpon>F_filhoCheckBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Veiculos.resx">
       <DependentUpon>F_Veiculos.cs</DependentUpon>
