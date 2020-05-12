@@ -64,5 +64,11 @@ namespace Componentes
             F_CheckedListBox f_CheckedListBox = new F_CheckedListBox();
             f_CheckedListBox.ShowDialog();
         }
+
+        private void comboBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_Combobox f_Combobox = new F_Combobox();
+            f_Combobox.ShowDialog();
+        }
     }
 }

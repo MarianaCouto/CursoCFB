@@ -17,11 +17,19 @@ namespace Componentes
         public F_filhoCheckBox()
         {
             InitializeComponent();
-            fcb = Application.OpenForms["F_CheckBox"] as F_CheckBox;
-            cb_carro.Checked = fcb.cb_carro.Checked;
-            cb_aviao.Checked = fcb.cb_aviao.Checked;
-            cb_navio.Checked = fcb.cb_navio.Checked;
-            cb_onibus.Checked = fcb.cb_onibus.Checked;
+            try
+            {
+                fcb = Application.OpenForms["F_CheckBox"] as F_CheckBox;
+                cb_carro.Checked = fcb.cb_carro.Checked;
+                cb_aviao.Checked = fcb.cb_aviao.Checked;
+                cb_navio.Checked = fcb.cb_navio.Checked;
+                cb_onibus.Checked = fcb.cb_onibus.Checked;
+            }
+            catch
+            {
+                MessageBox.Show("Erro ao abrir formulário","Erro");
+            }
+
         }
 
         private void cb_carro_CheckedChanged(object sender, EventArgs e)

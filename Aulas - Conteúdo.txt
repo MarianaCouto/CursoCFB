@@ -66,3 +66,5 @@
 * Aula65 - Como criar um menu
 * Aula66 - Como usar CheckBox com C#
 * Aula67 - Verificar formulários abertos / OpenForms
+* Aula68 - Checked ListBox
+* Aula69 - ComboBox

@@ -81,9 +81,9 @@
             // 
             this.btn_transportesMarcados.Location = new System.Drawing.Point(85, 13);
             this.btn_transportesMarcados.Name = "btn_transportesMarcados";
-            this.btn_transportesMarcados.Size = new System.Drawing.Size(197, 26);
+            this.btn_transportesMarcados.Size = new System.Drawing.Size(220, 30);
             this.btn_transportesMarcados.TabIndex = 4;
-            this.btn_transportesMarcados.Text = "Transporte marcados";
+            this.btn_transportesMarcados.Text = "Transporte Marcados";
             this.btn_transportesMarcados.UseVisualStyleBackColor = true;
             this.btn_transportesMarcados.Click += new System.EventHandler(this.btn_transportesMarcados_Click);
             // 
@@ -102,9 +102,9 @@
             // 
             this.btn_abrirFilho.Location = new System.Drawing.Point(85, 48);
             this.btn_abrirFilho.Name = "btn_abrirFilho";
-            this.btn_abrirFilho.Size = new System.Drawing.Size(197, 23);
+            this.btn_abrirFilho.Size = new System.Drawing.Size(220, 30);
             this.btn_abrirFilho.TabIndex = 6;
-            this.btn_abrirFilho.Text = "Abrir form filho";
+            this.btn_abrirFilho.Text = "Abrir Form Filho";
             this.btn_abrirFilho.UseVisualStyleBackColor = true;
             this.btn_abrirFilho.Click += new System.EventHandler(this.btn_abrirFilho_Click);
             // 
@@ -112,7 +112,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(294, 450);
+            this.ClientSize = new System.Drawing.Size(313, 174);
             this.Controls.Add(this.btn_abrirFilho);
             this.Controls.Add(this.cb_patinete);
             this.Controls.Add(this.btn_transportesMarcados);
