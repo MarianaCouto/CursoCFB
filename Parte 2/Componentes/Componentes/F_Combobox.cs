@@ -65,7 +65,12 @@ namespace Componentes
                 {
                     MessageBox.Show(tb_transporte.Text + " já existe!", "Transporte existente");
                 }
-                
+
+            }
+            else
+            {
+                MessageBox.Show("Digite um transporte.", "Atenção");
+                tb_transporte.Focus();
             }
         }
     }

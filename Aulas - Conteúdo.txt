@@ -68,3 +68,5 @@
 * Aula67 - Verificar formulários abertos / OpenForms
 * Aula68 - Checked ListBox
 * Aula69 - ComboBox
+* Aula70 - DateTimePicker
+* Aula71 - Label e LinkLabel 

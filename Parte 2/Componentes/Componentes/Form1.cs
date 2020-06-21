@@ -70,5 +70,17 @@ namespace Componentes
             F_Combobox f_Combobox = new F_Combobox();
             f_Combobox.ShowDialog();
         }
+
+        private void dateTimerPickerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_DateTimerPicker f_DateTimerPicker = new F_DateTimerPicker();
+            f_DateTimerPicker.ShowDialog();
+        }
+
+        private void labelLinkLabelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_LinkLabel f_LinkLabel = new F_LinkLabel();
+            f_LinkLabel.ShowDialog();
+        }
     }
 }

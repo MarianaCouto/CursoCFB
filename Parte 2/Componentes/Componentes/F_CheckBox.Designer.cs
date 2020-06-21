@@ -83,7 +83,7 @@
             this.btn_transportesMarcados.Name = "btn_transportesMarcados";
             this.btn_transportesMarcados.Size = new System.Drawing.Size(220, 30);
             this.btn_transportesMarcados.TabIndex = 4;
-            this.btn_transportesMarcados.Text = "Transporte Marcados";
+            this.btn_transportesMarcados.Text = "Transportes Marcados";
             this.btn_transportesMarcados.UseVisualStyleBackColor = true;
             this.btn_transportesMarcados.Click += new System.EventHandler(this.btn_transportesMarcados_Click);
             // 

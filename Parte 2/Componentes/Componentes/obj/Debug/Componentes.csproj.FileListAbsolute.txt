@@ -13,3 +13,5 @@ D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componente
 D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componentes.F_CheckedListBox.resources
 D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componentes.F_filhoCheckBox.resources
 D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componentes.F_Combobox.resources
+D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componentes.F_DateTimerPicker.resources
+D:\C#\Aulas\CursoCFB_CSharp\Parte 2\Componentes\Componentes\obj\Debug\Componentes.F_LinkLabel.resources

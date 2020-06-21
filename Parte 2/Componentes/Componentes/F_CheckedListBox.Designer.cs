@@ -101,7 +101,7 @@
             // lb_novoTransporte
             // 
             this.lb_novoTransporte.AutoSize = true;
-            this.lb_novoTransporte.Location = new System.Drawing.Point(140, 152);
+            this.lb_novoTransporte.Location = new System.Drawing.Point(137, 155);
             this.lb_novoTransporte.Name = "lb_novoTransporte";
             this.lb_novoTransporte.Size = new System.Drawing.Size(131, 13);
             this.lb_novoTransporte.TabIndex = 6;

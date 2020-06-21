@@ -17,7 +17,7 @@ class Aula17{  //Arrey / Vetor unidimensionais [] Abrir e fechar o colchete quer
         n[3]=44;
         n[4]=55;
 
-        Console.WriteLine(num[1]);
+        Console.WriteLine(n[1]);
         Console.WriteLine(veiculos[1]);
 }
 }

@@ -62,6 +62,12 @@ namespace Componentes
                 tb_novoTransporte.Clear();
                 tb_novoTransporte.Focus();
             }
+            else
+            {
+                MessageBox.Show("Digite um transporte.", "Atenção");
+                tb_novoTransporte.Focus();
+            }
+
             
         }
     }

@@ -34,6 +34,7 @@
             this.btn_adicionarTransporte = new System.Windows.Forms.Button();
             this.tb_transporte = new System.Windows.Forms.TextBox();
             this.btn_limparElementos = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cb_transportes
@@ -77,7 +78,7 @@
             this.btn_adicionarTransporte.Name = "btn_adicionarTransporte";
             this.btn_adicionarTransporte.Size = new System.Drawing.Size(220, 30);
             this.btn_adicionarTransporte.TabIndex = 4;
-            this.btn_adicionarTransporte.Text = "Adicionar Novo Transporte";
+            this.btn_adicionarTransporte.Text = "Adicionar Transporte";
             this.btn_adicionarTransporte.UseVisualStyleBackColor = true;
             this.btn_adicionarTransporte.Click += new System.EventHandler(this.btn_adicionarTransporte_Click);
             // 
@@ -98,11 +99,21 @@
             this.btn_limparElementos.UseVisualStyleBackColor = true;
             this.btn_limparElementos.Click += new System.EventHandler(this.btn_limparElementos_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(217, 156);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(131, 13);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Digite um novo transporte:";
+            // 
             // F_Combobox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(447, 240);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_limparElementos);
             this.Controls.Add(this.tb_transporte);
             this.Controls.Add(this.btn_adicionarTransporte);
@@ -126,5 +137,6 @@
         private System.Windows.Forms.Button btn_adicionarTransporte;
         private System.Windows.Forms.TextBox tb_transporte;
         private System.Windows.Forms.Button btn_limparElementos;
+        private System.Windows.Forms.Label label1;
     }
 }
